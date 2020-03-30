@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="ButtonTest"
+      id="07b54c92-38f9-45e4-99b5-2fbca9eaa76e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="ButtonTest"
+      id="07b54c92-38f9-45e4-99b5-2fbca9eaa76e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
